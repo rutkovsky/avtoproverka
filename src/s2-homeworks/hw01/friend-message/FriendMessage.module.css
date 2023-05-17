@@ -1,4 +1,9 @@
 .friendMessage {
+    position: absolute;
+    width: 575px;
+    height: 77px;
+    left: 635px;
+    top: 192px;
 
 }
 

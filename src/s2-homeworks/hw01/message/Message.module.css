@@ -1,5 +1,9 @@
 .message {
-
+    position: absolute;
+    width: 462px;
+    height: 77px;
+    left: 70px;
+    top: 299px;
 }
 
 .imageAndText {
