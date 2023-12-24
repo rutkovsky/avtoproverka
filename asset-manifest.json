@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/rutkovsky.github.io/avtoproverka.git/static/css/main.9ae1f5de.css",
-    "main.js": "/rutkovsky.github.io/avtoproverka.git/static/js/main.71a9698d.js",
+    "main.js": "/rutkovsky.github.io/avtoproverka.git/static/js/main.bb7bc035.js",
     "static/js/787.66cb4309.chunk.js": "/rutkovsky.github.io/avtoproverka.git/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/rutkovsky.github.io/avtoproverka.git/static/media/avatar.d947cb9d0d13765666b6.png",
     "index.html": "/rutkovsky.github.io/avtoproverka.git/index.html",
     "main.9ae1f5de.css.map": "/rutkovsky.github.io/avtoproverka.git/static/css/main.9ae1f5de.css.map",
-    "main.71a9698d.js.map": "/rutkovsky.github.io/avtoproverka.git/static/js/main.71a9698d.js.map",
+    "main.bb7bc035.js.map": "/rutkovsky.github.io/avtoproverka.git/static/js/main.bb7bc035.js.map",
     "787.66cb4309.chunk.js.map": "/rutkovsky.github.io/avtoproverka.git/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ae1f5de.css",
-    "static/js/main.71a9698d.js"
+    "static/js/main.bb7bc035.js"
   ]
 }
